@@ -1,0 +1,21 @@
+'pt-BR':
+  activerecord:
+    models:
+      admin:
+        one: Administrador
+        other: Administradores
+      student:
+        one: Aluno
+        other: Alunos
+    attributes:
+      admin:
+        id: Identificador
+        login: Email
+        created_at: Criado em
+        updated_at: Atualizado em
+      student:
+        id: Identificador
+        login: Email
+        created_at: Criado em
+        updated_at: Atualizado em
+      
