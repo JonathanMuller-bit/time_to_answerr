@@ -1,0 +1,2 @@
+module StudentsBackoffice::WelcomeHelper
+end
